@@ -24,4 +24,3 @@ Chatbot com IA criado com Streamlit e OpenAI.
 
 4. Acesse <http://localhost:8501>.
 
-O arquivo `.env` contém informações privadas e não deve ser enviado ao GitHub.
